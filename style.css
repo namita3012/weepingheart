@@ -1,0 +1,67 @@
+h1{
+    color:firebrick;
+    background-color:black;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 20px;
+    margin: 10px 15px;
+    padding: 15px 10px;
+}
+ 
+h2{
+    color: turquoise;
+    background-color: white;
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 18px;
+    margin: 30px 20px;
+    padding: 20px 30px;
+    line-height: 48px;
+    border: 1px solid maroon;
+}
+
+.image {
+    background-image: url("https://miro.medium.com/max/1080/1*Tc_KuX_sHcyPDL7P2e7N9A.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+} 
+.caption {
+    background-color:white;
+    color:darkcyan;
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 14px;
+    margin-left: 20px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 60%;
+    opacity:0.75;
+  }
+  body{
+      background-color: powderblue;
+      color: maroon;
+      opacity: 1;
+  }
+
+  .share {
+    border: 1px solid LightGrey;
+    padding: 40px 0px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+  }
+
+  .share a {
+    background: red;
+    border: 1px solid red;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;
+    margin: 10px;
+    padding: 14px;
+    text-decoration: underline;
+  }
