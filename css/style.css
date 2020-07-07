@@ -28,7 +28,7 @@ h2{
 } 
 .caption {
     background-color:white;
-    color:blueviolet;
+    color:darkcyan;
     display: block;
     font-family: 'Playfair Display', serif;
     font-size: 14px;
@@ -42,7 +42,7 @@ h2{
     opacity:0.75;
   }
   body{
-      background-color: rgb(121, 27, 184);
+      background-color: powderblue;
       color: maroon;
       opacity: 1;
   }
